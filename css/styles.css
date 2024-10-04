@@ -163,14 +163,6 @@ font-family: "Raleway", sans-serif;
     background-color: #2e2f42;
 }
 
-.footer-logo {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    flex-direction: row;
-    gap: 0px;
-}
-
 .footer-web {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
