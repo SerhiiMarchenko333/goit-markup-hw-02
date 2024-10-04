@@ -86,7 +86,7 @@ font-family: "Raleway", sans-serif;
 }
 
 .block-button:hover,
-.block-button.focus {
+.block-button:focus {
     background-color: #404BBF;
 }
 
