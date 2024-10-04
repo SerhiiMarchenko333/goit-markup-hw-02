@@ -86,8 +86,6 @@ font-family: "Raleway", sans-serif;
 
 .visually-hidden {
     position: absolute;
-    width: 1px;
-    height: 1px;
     margin: -1px;
     border: 0;
     padding: 0;
