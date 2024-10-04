@@ -49,8 +49,8 @@ font-family: "Raleway", sans-serif;
         color: #434455;
 }
 
-.header-contacts-list:hover,
-.header-contacts-list:focus {
+.header-contacts-item:hover,
+.header-contacts-item:focus {
     color: #404bbf;
 }
 
@@ -83,20 +83,6 @@ font-family: "Raleway", sans-serif;
 .block-button.focus {
     background-color: #404BBF;
 }
-
-/*.visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-}*/
 
 .features-item-list {
     font-weight: 500;
