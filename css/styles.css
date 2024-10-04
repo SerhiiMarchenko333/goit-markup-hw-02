@@ -49,8 +49,8 @@ font-family: "Raleway", sans-serif;
         color: #434455;
 }
 
-.header-contacts-link:hover,
-.header-contacts-link:focus {
+.header-contacts-list:hover,
+.header-contacts-list:focus {
     color: #404bbf;
 }
 
